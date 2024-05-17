@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Siva Mani </span>
             from <span className="purple"> Vijayawada, India.</span>
             <br />
-            I wam Desired to work as Mern Stack developer.
+            I was Desired to work as Mern Stack developer.
             <br />
             I am studing 3rd Year in Srm Ap University.
             <br />
